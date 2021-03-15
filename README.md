@@ -12,7 +12,7 @@ git clone https://github.com/Konstantinosanonymous/base64passwordgenerator
 
 cd base64passwordgenerator
 
-python3 base64passwordgenerator
+python3 base64passwordgenerator.py
 
 _________________________________________________________________________________________________
 
