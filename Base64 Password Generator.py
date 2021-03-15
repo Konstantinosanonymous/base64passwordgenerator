@@ -31,5 +31,5 @@ for i in range(loop):
     else:
         print('Ok We Stop Here')
         print('You Encoded Your Password',etimes,'Times')
-        print("Your Password Is ",encode,)
+        print("Your Password Is ",encode)
         break
