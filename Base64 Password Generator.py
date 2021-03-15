@@ -1,10 +1,4 @@
 import base64
-import os
-import socket
-import subprocess
-import string
-import time
-import random as r
 print(' ____                   __ _  _     _____                                         _    _____                           _             ')
 print('|  _ \                 / /| || |   |  __ \                                       | |  / ____|                         | |            ')
 print('| |_) | __ _ ___  ___ / /_| || |_  | |__) |_ _ ___ ___  _____      _____  _ __ __| | | |  __  ___ _ __   ___ _ __ __ _| |_ ___  _ __ ')
