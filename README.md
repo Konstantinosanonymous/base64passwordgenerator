@@ -11,6 +11,7 @@ The More Times Your Password Is Encoded The More Secure It Is
 ________________________________________________________________________________________________
 
 Downloading:
+
 git clone https://github.com/Konstantinosanonymous/base64passwordgenerator
 
 cd base64passwordgenerator
